@@ -1,5 +1,5 @@
 # Horiseon-Site
-<h1 align="center">Hi 👋, I'm Brooke Bunto</h1>
+<h1 align="center">Hi 👋, I'm Brooke Bunton</h1>
 <h3 align="center">A growing computer programmer</h3>
 
 - 🔭 I’m currently working on [A CSS project called Horiseon](file:///C:/Users/beaan/Week_1_challenge/horiseon.html)
