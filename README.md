@@ -1,4 +1,3 @@
-
 # Horiseon Site
 
 This project is for Horiseon marketing agency. 
